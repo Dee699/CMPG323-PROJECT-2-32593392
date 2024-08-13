@@ -1,6 +1,6 @@
 # API_32593392 
 
-# This project is developed as part of the CMPG 323 curriculum. The project involves creating a .NET Web API to manage telemetry data, with a focus on tracking time and cost savings associated with automation across different projects and clients. The API is secured using JWT-based authentication and is hosted on Azure. Password to be used for database and API authentication is cmpg@323.
+ This project is developed as part of the CMPG 323 curriculum. The project involves creating a .NET Web API to manage telemetry data, with a focus on tracking time and cost savings associated with automation across different projects and clients. The API is secured using JWT-based authentication and is hosted on Azure. Password to be used for database and API authentication is cmpg@323.
 
 Table of Contents
 Project Structure
