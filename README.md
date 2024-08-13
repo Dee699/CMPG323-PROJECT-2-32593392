@@ -3,12 +3,19 @@
  This project is developed as part of the CMPG 323 curriculum. The project involves creating a .NET Web API to manage telemetry data, with a focus on tracking time and cost savings associated with automation across different projects and clients. The API is secured using JWT-based authentication and is hosted on Azure. Password to be used for database and API authentication is cmpg@323.
 
 Table of Contents
+
 Project Structure
+
 Getting Started
+
 API Documentation
+
 Authentication and Authorization
+
 Using the API
+
 Deployment
+
 References
 
 # Project Structure
@@ -34,7 +41,7 @@ Visual Studio 2022
  use the above password to access everything
 
 # API Documentation
-The API provides endpoints to manage telemetry data. The Swagger UI can be accessed at https://localhost:5001/swagger to explore the available endpoints.
+The API provides endpoints to manage telemetry data. The Swagger UI can be accessed at https://localhost:7275/swagger/index.html to explore the available endpoints.
 
 Key Endpoints
 /api/authenticate/login: Authenticates a user and returns a JWT token.
