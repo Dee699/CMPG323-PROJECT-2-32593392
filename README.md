@@ -48,8 +48,11 @@ https://newapiservice-dwe2embedsf2hkgu.southafricanorth-01.azurewebsites.net/swa
 
 https://nwutechtrends-api-eag8gqdcdzfzhneh.southafricanorth-01.azurewebsites.net/swagger/index.html
 Key Endpoints
+
 /api/authenticate/login: Authenticates a user and returns a JWT token.
+
 /api/authenticate/register: Registers a new user.
+
 /api/telemetry: CRUD operations for telemetry data.
 
 # Deployment
