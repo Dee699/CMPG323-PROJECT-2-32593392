@@ -1,6 +1,5 @@
 # API_32593392 
 
-https://nwutechtrends-api-eag8gqdcdzfzhneh.southafricanorth-01.azurewebsites.net/swagger/index.html
 
  This project is developed as part of the CMPG 323 curriculum. The project involves creating a .NET Web API to manage telemetry data, with a focus on tracking time and cost savings associated with automation across different projects and clients. The API is secured using JWT-based authentication and is hosted on Azure. Password to be used for database and API authentication is cmpg@323.
 
@@ -64,3 +63,7 @@ Entity Framework Core: https://docs.microsoft.com/en-us/ef/core/
 Youtube : https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is
         : https://youtu.be/murThM9ATJA?si=NJBcFpQ7jxnrOqet-
         : https://youtu.be/tg_0o6U_J-w?si=A1Y6nbivQYw1Asp_
+
+https://newapiservice-dwe2embedsf2hkgu.southafricanorth-01.azurewebsites.net/swagger/index.html
+https://nwutechtrends-api-eag8gqdcdzfzhneh.southafricanorth-01.azurewebsites.net/swagger/index.html
+
