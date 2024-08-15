@@ -3,7 +3,6 @@
 
  This project is developed as part of the CMPG 323 curriculum. The project involves creating a .NET Web API to manage telemetry data, with a focus on tracking time and cost savings associated with automation across different projects and clients. The API is secured using JWT-based authentication and is hosted on Azure. Password to be used for database and API authentication is cmpg@323.
 
-Table of Contents
 
 Project Structure
 
@@ -13,7 +12,7 @@ API Documentation
 
 Authentication and Authorization
 
-Using the API
+API Documentation & Using the API
 
 Deployment
 
@@ -39,11 +38,15 @@ Visual Studio 2022
   Server used (project2svr)
   
 # Authentication and Authorization
- use the above password to access everything
+ use the above password to access everything 
 
-# API Documentation
+
+# API Documentation & Using the API
 The API provides endpoints to manage telemetry data. The Swagger UI can be accessed at https://localhost:7275/swagger/index.html to explore the available endpoints.
 
+https://newapiservice-dwe2embedsf2hkgu.southafricanorth-01.azurewebsites.net/swagger/index.html
+
+https://nwutechtrends-api-eag8gqdcdzfzhneh.southafricanorth-01.azurewebsites.net/swagger/index.html
 Key Endpoints
 /api/authenticate/login: Authenticates a user and returns a JWT token.
 /api/authenticate/register: Registers a new user.
@@ -64,7 +67,4 @@ Youtube : https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is
         : https://youtu.be/murThM9ATJA?si=NJBcFpQ7jxnrOqet-
         : https://youtu.be/tg_0o6U_J-w?si=A1Y6nbivQYw1Asp_
 
-https://newapiservice-dwe2embedsf2hkgu.southafricanorth-01.azurewebsites.net/swagger/index.html
-
-https://nwutechtrends-api-eag8gqdcdzfzhneh.southafricanorth-01.azurewebsites.net/swagger/index.html
 
