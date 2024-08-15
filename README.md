@@ -64,10 +64,15 @@ Updating the connection strings in the Azure portal to point to the Azure SQL Da
 
 # References
 .NET 6.0 Documentation: https://docs.microsoft.com/en-us/dotnet/
+
 Azure App Service Documentation: https://docs.microsoft.com/en-us/azure/app-service/
+
 Entity Framework Core: https://docs.microsoft.com/en-us/ef/core/
+
 Youtube : https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is
+        
         : https://youtu.be/murThM9ATJA?si=NJBcFpQ7jxnrOqet-
+      
         : https://youtu.be/tg_0o6U_J-w?si=A1Y6nbivQYw1Asp_
 
 
